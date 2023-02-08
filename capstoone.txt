@@ -1,0 +1,2 @@
+git init
+setting up repository for project
