@@ -1,2 +1,3 @@
 git init
 setting up repository for project
+the best way of learning
